@@ -1,18 +1,17 @@
 public class Codingday7 {
-public static void main(String[] args) {
+    public static void main(String[] args) {
         // tipe data char
         char huruf = 'A';
         char nomor = '3';
 
         System.out.println("huruf: " + huruf);
         System.out.println("nomor: " + nomor);
-       
-       
-        //tipe data boolean
+
+        // tipe data boolean
         boolean sukaOlahraga = true;
-        System.out.println("suka olahraga");
-        
+        System.out.println("Suka olahraga? " + sukaOlahraga);
+
         boolean sukaAyam = false;
-        System.out.println("suka ayam");
+        System.out.println("Suka ayam? " + sukaAyam);
     }
 }
