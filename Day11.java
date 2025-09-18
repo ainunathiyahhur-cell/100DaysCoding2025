@@ -5,20 +5,18 @@ public class Day11 {
         // Membuat objek Scanner
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Masukkan nama lengkap Anda: ");
+        System.out.print("Masukkan nama lengkap: ");
         String nama = input.nextLine();
 
-        System.out.print("Masukkan umur Anda: ");
+        System.out.print("Masukkan umur: ");
         int umur = input.nextInt();
 
-        System.out.print("Masukkan tinggi badan Anda (cm): ");
+        System.out.print("Masukkan tinggi badan (cm): ");
         double tinggi = input.nextDouble();
 
-        System.out.print("Masukkan berat badan Anda (kg): ");
+        System.out.print("Masukkan berat badan (kg): ");
         float berat = input.nextFloat();
 
-        System.out.print("Masukkan jenis kelamin (L/P): ");
-        char gender = input.next().charAt(0);
 
         System.out.println("Nama Lengkap : " + nama);
         System.out.println("Umur         : " + umur + " tahun");
