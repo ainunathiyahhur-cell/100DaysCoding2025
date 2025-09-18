@@ -17,7 +17,6 @@ public class Day11 {
         System.out.print("Masukkan berat badan (kg): ");
         float berat = input.nextFloat();
 
-
         System.out.println("Nama Lengkap : " + nama);
         System.out.println("Umur         : " + umur + " tahun");
         System.out.println("Tinggi Badan : " + tinggi + " cm");
