@@ -1,6 +1,6 @@
-package lanjutanevaluasi;
+package athiyah;
 
-public class LanjutanEvaluasi {
+public class Day13 {
 
     public static void main(String[] args) {
         String nama = "Budi";
