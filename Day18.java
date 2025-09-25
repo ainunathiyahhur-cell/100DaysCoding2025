@@ -1,6 +1,6 @@
 public class KonversiKecilBesar {
     public static void main(String[] args) {
-        byte kecil = 42;
+        byte kecil = 25;
         double besar = kecil;
 
         System.out.println("Nilai kecil: " + kecil);
