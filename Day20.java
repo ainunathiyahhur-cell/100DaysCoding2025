@@ -7,7 +7,7 @@ public class PrimitifKeString5 {
         boolean aktif = true;
 
         String strUmur = umur + "";
-        String strBeratBadan = double.toString(beratBadan);
+        String strBeratBadan = Double.toString(beratBadan);
         String strSuhu = String.valueOf(suhu);
         String strGrade = grade + "";
         String strAktif = Boolean.toString(aktif);
