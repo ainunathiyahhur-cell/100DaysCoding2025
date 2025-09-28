@@ -1,4 +1,4 @@
-package Day21.java;
+package Day21;
 public class Day21 {
     public static void main(String[] args) {
         int a = 15;
