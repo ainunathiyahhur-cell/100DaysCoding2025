@@ -1,17 +1,17 @@
-public class day25 {
+public class Day25 {
     public static void main(String[] args) {
+        //increment
         int x = 10;
-
-        System.out.println("Nilai awal x = " + x);
-        x++; // post-increment
-        System.out.println("Setelah x++ = " + x);
-
-        System.out.println("Setelah ++x = " + x);
-
-        x--; // post-decrement
-        System.out.println("Setelah x-- = " + x);
-
-        --x; // pre-decrement
-        System.out.println("Setelah --x = " + x);
+      
+        System.out.println("Nilai awal = " + x);
+        x++;
+        System.out.println("Setelah = " + x);
+        
+        //Decrement
+        int a = 5;
+        System.out.println("Nilai awal = " + a);
+        a--;
+        System.out.println("Setelah = " + a);
     }
+    
 }
