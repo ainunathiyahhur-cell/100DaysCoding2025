@@ -7,8 +7,8 @@ public class Day34 {
         byte umurSaya = n.nextByte();
 
         if (umurSaya != 18) {
-            System.out.println("Umur saya bukan 18!");
+            System.out.println("Umur saya bukan 18");
         } else {
-            System.out.println("Umur saya 18!");
+            System.out.println("Umur saya 18");
     }
 }
